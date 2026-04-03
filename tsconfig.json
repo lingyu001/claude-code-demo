@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "target": "ES2017",
+    "strict": true,
+    "outDir": ".",
+    "noEmit": false
+  },
+  "files": ["calculator.ts", "game.ts"]
+}
